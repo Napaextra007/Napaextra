@@ -1,2 +1,2 @@
 import Bokaxuda
-import tor abba Bokaxuda
+#import tor abba Bokaxuda

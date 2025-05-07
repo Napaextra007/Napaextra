@@ -1,10 +1,1 @@
-# -*- coding: utf-8 -*-
-import os
-bit = os.uname().machine
-os.system('git checkout -- Silent.cpython-312.so && git pull')
-os.system('chmod 777 *')
-if '64' in bit:
-    import FILE
-else:
-    os.system('clear')
-    print('TOOL NOT AVAILABLE FOR 32 BIT DEVICE')
+
